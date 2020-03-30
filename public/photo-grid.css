@@ -17,7 +17,7 @@ h1{
   gap: 1rem;
 
   /* implicit grid figures out the right number 
-of colums and rows based on content and viewport size */
+  of colums and rows based on content and viewport size */
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 
   /* set grid height */

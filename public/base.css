@@ -6,6 +6,10 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
+a{
+  text-decoration: none;
+  color: #fff
+}
 .card {
     display: flex;
     flex-direction: column;
